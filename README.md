@@ -107,28 +107,32 @@ Q(t+1)=T′Q(t)+TQ(t)′
 
 
 ### PROGRAM 
-/*
+
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: LEKA SRI G
+RegisterNumber:  212223100025
+![286804807-cf2b82d4-70f5-4309-880e-54adc7897cbf](https://github.com/lekasri12/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037427/f16330e6-9033-4283-85e5-f888f9a8d42f)
+![286805019-55f3012b-975a-47e6-91d6-033ccd2d68fb](https://github.com/lekasri12/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037427/4d45d2ff-5d17-401f-a68d-9510a6be9722)
+![286805124-bb7b57ea-2c21-412f-84fb-42850b3b72ef](https://github.com/lekasri12/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037427/9f5d484f-f154-4bfa-a21a-bafe7dd8f232)
+![286805165-46a67e4f-b26f-427d-a832-8511218042fa](https://github.com/lekasri12/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037427/f13acb3c-05e6-43ec-926c-4646c43544d1)
+![286805211-96721648-6266-481e-a5fd-0ce15f96ab99](https://github.com/lekasri12/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037427/07d26408-d6d1-4a7b-a681-e35a7f725e5a)
+![286805248-249c14fc-4746-4d9b-bd4b-58c364c022f2](https://github.com/lekasri12/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037427/0ee99ddd-78f4-46b9-a842-c34eee3feca8)
+![286805425-41de9279-2bc7-45e1-b250-67c6e2912b65](https://github.com/lekasri12/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037427/bfe93896-bdbf-4dd2-aca7-bd7cb6a541e6)
+![286805470-6dd5d998-4e22-440c-8f71-f53e5125051b](https://github.com/lekasri12/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037427/8c42585f-51dd-4377-b51a-ea1bfeeea97e)
 
-
-
-
-
-
-### RTL LOGIC FOR FLIPFLOPS 
-
-
-
-
-
-
-
+### RTL LOGIC FOR FLIPFLOPS
+![286805837-6a6864d7-799c-46ef-be5f-6e8fb78f7f14](https://github.com/lekasri12/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037427/b08ca8e9-e2e4-4bab-8c04-eb680e0c1353)
+![286805948-b4d111d5-6b92-4503-9340-812fb412f2be](https://github.com/lekasri12/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037427/23563fc2-796b-4ca8-b27c-80d447b4bfc8)
+![286806077-9dd21d8d-dce4-402b-803f-63ccc1bd37ca](https://github.com/lekasri12/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037427/6da86d5e-9e27-4370-9a2c-c3e984625758)
+![286806240-9324ba88-87f7-4a56-a7cb-a2a3e03d52b7](https://github.com/lekasri12/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037427/8850ec49-2d50-4625-a122-364050390aa4)
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
+![286806403-75e4c4ea-39c1-43f8-8a4d-d35259a77461](https://github.com/lekasri12/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037427/f8a79edc-9677-4bd8-bc95-4bc8c3366371)
+![286806448-52de785d-11b7-4e48-9202-d802887bf838](https://github.com/lekasri12/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037427/bc015b4a-eab0-4eec-9cee-87ff4defbeb5)
+![286806550-0be2bf79-32d6-499d-9253-83bb2ed8fd9e](https://github.com/lekasri12/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037427/5a7ca998-9b2d-4a7b-a28c-168d50f4fff9)
+![286806672-de20783f-9e10-4a84-84bd-0b6cf6ea2861](https://github.com/lekasri12/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149037427/de1d0ea4-9b75-4e4c-a26f-7770515b4b53)
+
 
 
 
